@@ -1,0 +1,102 @@
+[
+  {
+    "name":"SLCV2020",
+    "type":"vaccine",
+    "vaccineGroup":"A",
+    "single_dose": "1.0",
+    "efficacy_rate":"0.750",
+    "volunteer":100,
+    "confirm_positive":2
+  },
+  {
+    "name":"Unknown",
+    "type":"placebo",
+    "vaccineGroup":"B",
+    "single_dose": "1.0",
+    "efficacy_rate":"No efficacy",
+    "volunteer":100,
+    "confirm_positive":8
+
+  },
+
+  {
+    "name":"SLCV2020",
+    "type":"vaccine",
+    "vaccineGroup":"A",
+    "single_dose": "0.5",
+    "efficacy_rate":"0.857",
+    "volunteer":50,
+    "confirm_positive":1
+  },
+  {
+    "name":"Unknown",
+    "type":"placebo",
+    "vaccineGroup":"B",
+    "single_dose": "0.5",
+    "efficacy_rate":"No efficacy",
+    "volunteer":50,
+    "confirm_positive":7
+
+  },
+
+  {
+    "name":"SLCV2020",
+    "type":"vaccine",
+    "vaccineGroup":"A",
+    "single_dose": "0.5",
+    "efficacy_rate":"0.777",
+    "volunteer":100,
+    "confirm_positive":2
+  },
+  {
+    "name":"Unknown",
+    "type":"placebo",
+    "vaccineGroup":"B",
+    "single_dose": "0.5",
+    "efficacy_rate":"No efficacy",
+    "volunteer":100,
+    "confirm_positive":9
+
+  },
+  {
+    "name":"SLCV2020",
+    "type":"vaccine",
+    "vaccineGroup":"A",
+    "single_dose": "0.5",
+    "efficacy_rate":"0.666",
+    "volunteer":50,
+    "confirm_positive":3
+  },
+
+  {
+    "name":"Unknown",
+    "type":"placebo",
+    "vaccineGroup":"B",
+    "single_dose": "0.5",
+    "efficacy_rate":"No efficacy",
+    "volunteer":50,
+    "confirm_positive":9
+
+  },
+
+  {
+    "name":"SLCV2020",
+    "type":"vaccine",
+    "vaccineGroup":"A",
+    "single_dose": "1.0",
+    "efficacy_rate":"0.933",
+    "volunteer":50,
+    "confirm_positive":1
+  },
+
+  {
+    "name":"Unknown",
+    "type":"placebo",
+    "vaccineGroup":"B",
+    "single_dose": "1.0",
+    "efficacy_rate":"No efficacy",
+    "volunteer":50,
+    "confirm_positive":15
+
+  }
+]
